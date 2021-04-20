@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 TEST
+=======
+Test lini 1
+Test lini 2
+>>>>>>> poprawki_README
